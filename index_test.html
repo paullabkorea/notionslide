@@ -70,13 +70,17 @@
         .hero h1 {
             font-size: 3rem;
             margin-bottom: 1rem;
-            animation: slideUp 1s ease-out;
+            @media (prefers-reduced-motion: no-preference) {
+                animation: slideUp 1s ease-out;
+            }
         }
         
         .hero p {
             font-size: 1.2rem;
             margin-bottom: 2rem;
-            animation: slideUp 1s ease-out 0.2s both;
+            @media (prefers-reduced-motion: no-preference) {
+                animation: slideUp 1s ease-out 0.2s both;
+            }
         }
         
         .cta-button {
