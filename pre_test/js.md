@@ -2,6 +2,10 @@
 
 # 자바스크립트
 
+![logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
+<img width="200px" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+
 - HTML은 콘텐츠와 골격, CSS는 웹페이지의 레이아웃, JavaScript는 웹페이지의 동작
     - ES1 (초판, 1997)
     - ES2 (1998)
